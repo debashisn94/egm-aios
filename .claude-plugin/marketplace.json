@@ -1,0 +1,13 @@
+{
+  "name": "aios",
+  "owner": {
+    "name": "Debashis Nayak"
+  },
+  "plugins": [
+    {
+      "name": "egm",
+      "source": "./",
+      "description": "AIOS fork of Google EGM (Apache-2.0): design with context, review with fresh Sonnet reviewers."
+    }
+  ]
+}
